@@ -1,2 +1,1 @@
-# next-and-redux
-Code example for next with redux
+Code example for next with Redux
